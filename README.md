@@ -15,7 +15,7 @@
 const sujan = {
   role: "Full-Stack Developer",
   education: "BSc Hons Computing",
-  location: "Pokhara, Nepal",
+  location: "Itahari, Nepal",
   strengths: ["Frontend Development", "Backend APIs", "Database Design"],
   focus: "Clean architecture and scalable systems"
 };
