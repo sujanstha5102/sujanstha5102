@@ -1,71 +1,24 @@
-<h1 align="center">Sujan Shrestha</h1>
+<!-- Banner -->
 <p align="center">
-Full-Stack Developer | BSc Hons Computing Graduate
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Sujan%20Shrestha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-Kathmandu, Nepal
-</p>
-
----
-
-## Professional Summary
-
-I am a Computing graduate with strong interest in Full-Stack Development.  
-I enjoy building scalable web applications using modern JavaScript technologies and continuously improving my backend and system design skills.
-
----
-
-## Core Skills
-
-**Frontend**
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-
-**Database**
-- MySQL
-- MongoDB
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Postman
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujanstha5102&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujanstha5102&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node+%7C+MySQL;BSc+Hons+Computing+Graduate;Building+Modern+Web+Applications" />
 </p>
 
 ---
 
-## Contribution Streak
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sujanstha5102&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## Current Focus
-
-- Improving backend architecture
-- Building real-world portfolio projects
-- Strengthening problem-solving skills
-
----
-
-## Contact
-
-Email: your-email@example.com  
-LinkedIn: (add your LinkedIn link)
+```js
+const sujan = {
+  education: "BSc Hons Computing",
+  location: "Nepal 🇳🇵",
+  role: "Aspiring Full-Stack Developer",
+  frontend: ["React", "JavaScript", "HTML", "CSS"],
+  backend: ["Node.js", "Express"],
+  database: ["MySQL", "MongoDB"],
+  goal: "To build impactful real-world applications"
+};
