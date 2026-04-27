@@ -1,58 +1,71 @@
-<h1 align="center">Hi 👋, I'm Sujan Shrestha</h1>
-<h3 align="center">BSc Hons Computing Graduate | Aspiring Full-Stack Developer</h3>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 BSc Hons Computing Graduate (London Met Affiliated)
-- 💻 Interested in Full Stack Development (React & Node.js)
-- 🌱 Currently improving Backend & Problem Solving Skills
-- 🚀 Goal: Build strong portfolio projects in 2026
-- 📍 Based in Nepal
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql)
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Sujan Shrestha</h1>
+<p align="center">
+Full-Stack Developer | BSc Hons Computing Graduate
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujanstha5102&show_icons=true&theme=tokyonight" />
+Kathmandu, Nepal
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## Professional Summary
+
+I am a Computing graduate with strong interest in Full-Stack Development.  
+I enjoy building scalable web applications using modern JavaScript technologies and continuously improving my backend and system design skills.
+
+---
+
+## Core Skills
+
+**Frontend**
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+
+**Database**
+- MySQL
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sujanstha5102&theme=tokyonight" />
-</p>## Hi there 👋
+  <img src="https://github-readme-stats.vercel.app/api?username=sujanstha5102&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujanstha5102&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
 
-<!--
-**sujanstha5102/sujanstha5102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Contribution Streak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sujanstha5102&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## Current Focus
+
+- Improving backend architecture
+- Building real-world portfolio projects
+- Strengthening problem-solving skills
+
+---
+
+## Contact
+
+Email: your-email@example.com  
+LinkedIn: (add your LinkedIn link)
